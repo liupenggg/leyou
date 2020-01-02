@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/ly-auth/ly-auth-common/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ly-auth/ly-auth-service/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ly-auth/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ly-auth/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ly-cart/ly-cart-common/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ly-cart/ly-cart-service/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ly-cart/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ly-cart/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ly-common/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ly-gateway/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ly-item/ly-item-interface/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ly-item/ly-item-interface/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ly-item/ly-item-service/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ly-item/ly-item-service/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ly-item/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ly-item/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ly-order/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ly-page/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ly-registry/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ly-registry/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ly-search/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ly-sms/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ly-upload/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ly-user/ly-user-interface/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ly-user/ly-user-service/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ly-user/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ly-user/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/resources" charset="UTF-8" />
+  </component>
+</project>

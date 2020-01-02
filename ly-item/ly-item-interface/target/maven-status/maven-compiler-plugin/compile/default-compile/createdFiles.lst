@@ -1,0 +1,12 @@
+com\leyou\item\pojo\Category.class
+com\leyou\item\api\BrangApi.class
+com\leyou\item\pojo\Stock.class
+com\leyou\item\pojo\Brand.class
+com\leyou\item\pojo\SpecParam.class
+com\leyou\item\pojo\SpecGroup.class
+com\leyou\item\api\CategoryApi.class
+com\leyou\item\api\SpecificationApi.class
+com\leyou\item\pojo\Spu.class
+com\leyou\item\pojo\SpuDetail.class
+com\leyou\item\api\GoodsApi.class
+com\leyou\item\pojo\Sku.class

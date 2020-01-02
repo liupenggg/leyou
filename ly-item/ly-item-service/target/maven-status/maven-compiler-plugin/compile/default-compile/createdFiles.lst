@@ -1,0 +1,17 @@
+com\leyou\item\mapper\SpecGroupMapper.class
+com\leyou\item\service\SpecificationService.class
+com\leyou\item\service\BrandService.class
+com\leyou\item\mapper\CategoryMapper.class
+com\leyou\item\mapper\StockMapper.class
+com\leyou\item\mapper\SpuMapper.class
+com\leyou\item\mapper\SpuDetailMapper.class
+com\leyou\item\web\BrandController.class
+com\leyou\item\web\GoodsController.class
+com\leyou\item\mapper\BrandMapper.class
+com\leyou\item\mapper\SpecParamMapper.class
+com\leyou\LyItemApplication.class
+com\leyou\item\mapper\SkuMapper.class
+com\leyou\item\web\SpecificationController.class
+com\leyou\item\service\CategoryService.class
+com\leyou\item\service\GoodsService.class
+com\leyou\item\web\CategoryController.class

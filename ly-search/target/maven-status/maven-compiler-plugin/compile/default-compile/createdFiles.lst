@@ -1,0 +1,13 @@
+com\leyou\search\client\BrandClient.class
+com\leyou\search\service\SearchService$1.class
+com\leyou\search\client\SpecificationClient.class
+com\leyou\search\pojo\Goods.class
+com\leyou\search\service\SearchService.class
+com\leyou\search\client\GoodsClient.class
+com\leyou\search\web\SearchController.class
+com\leyou\search\client\CategoryClient.class
+com\leyou\search\mq\ItemListener.class
+com\leyou\search\pojo\SearchRequest.class
+com\leyou\search\pojo\SearchResult.class
+com\leyou\LySearchApplication.class
+com\leyou\search\repository\GoodsRepository.class

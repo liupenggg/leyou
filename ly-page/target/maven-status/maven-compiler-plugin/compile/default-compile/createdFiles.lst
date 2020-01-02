@@ -1,0 +1,8 @@
+com\leyou\LyPageApplication.class
+com\leyou\page\client\CategoryClient.class
+com\leyou\page\mq\ItemListener.class
+com\leyou\page\client\BrandClient.class
+com\leyou\page\client\GoodsClient.class
+com\leyou\page\service\PageService.class
+com\leyou\page\client\SpecificationClient.class
+com\leyou\page\web\PageController.class
