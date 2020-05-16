@@ -10,7 +10,7 @@ import tk.mybatis.spring.annotation.MapperScan;
 @MapperScan("com.leyou.item.mapper")
 public class LyItemApplication {
     public static void main(String[] args) {
-
+        // Spring应用启动起来
         SpringApplication.run(LyItemApplication.class, args);
     }
 }
