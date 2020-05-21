@@ -1,6 +1,30 @@
 # 乐优
 乐优商城
 
+1. ly-registry：eureka微服务
+
+1. ly-common：公共微服务
+
+1. ly-gateway：网关微服务
+
+1. ly-auth：认证微服务
+
+1. ly-cart：购物车微服务
+
+1. ly-item：商品微服务
+
+1. ly-order：订单微服务
+
+1. ly-page	：静态页微服务
+
+1. ly-search：搜索微服务
+
+1. ly-sms：短信微服务
+
+1. ly-upload：上传微服务
+
+1. ly-user：用户微服务
+
 参考博客：[https://blog.csdn.net/weixin_42247922/article/details/104425365](https://blog.csdn.net/weixin_42247922/article/details/104425365)
 
 leyou
