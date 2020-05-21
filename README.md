@@ -9,21 +9,22 @@
 
 4. ly-common：第四步创建通用的工具模块
 
-5. ly-auth：认证微服务
+5. ly-search：搜索微服务
 
-6. ly-cart：购物车微服务
+6. ly-page：静态页微服务
 
-7. ly-order：订单微服务
+7. ly-user：用户微服务
 
-8. ly-page	：静态页微服务
+8. ly-sms：短信微服务
 
-9. ly-search：搜索微服务
+9. ly-upload：上传微服务
 
-10. ly-sms：短信微服务
+10. ly-auth：认证微服务
 
-11. ly-upload：上传微服务
+11. ly-cart：购物车微服务
 
-12. ly-user：用户微服务
+12. ly-order：订单微服务
+
 
 参考博客：[https://blog.csdn.net/weixin_42247922/article/details/104425365](https://blog.csdn.net/weixin_42247922/article/details/104425365)
 
