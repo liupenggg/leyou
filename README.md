@@ -5,13 +5,13 @@
 
 2. ly-gateway：第二步创建网关微服务
 
-3. ly-common：公共微服务
+3. ly-item：第二步创建商品微服务，先重启网关微服务，再重启商品微服务
 
-4. ly-auth：认证微服务
+4. ly-common：公共微服务
 
-5. ly-cart：购物车微服务
+5. ly-auth：认证微服务
 
-6. ly-item：商品微服务
+6. ly-cart：购物车微服务
 
 7. ly-order：订单微服务
 
