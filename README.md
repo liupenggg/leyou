@@ -26,7 +26,10 @@
 12. ly-order：订单微服务
 
 
-leyou
+leyou网站请求过程：
+
+www.leyou.com-->nginx-->前端页面-->api.leyou.com-->后端微服务
+
 1. 管理后台开发
 2. 网站前台开发
 
