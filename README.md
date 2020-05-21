@@ -9,15 +9,15 @@
 
 4. ly-common：第四步创建通用的工具模块
 
-5. ly-search：搜索微服务
+5. ly-upload：上传微服务
 
-6. ly-page：静态页微服务
+6. ly-search：搜索微服务
 
-7. ly-user：用户微服务
+7. ly-page：静态页微服务
 
-8. ly-sms：短信微服务
+8. ly-user：用户微服务
 
-9. ly-upload：上传微服务
+9. ly-sms：短信微服务
 
 10. ly-auth：认证微服务
 
