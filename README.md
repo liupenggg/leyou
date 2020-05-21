@@ -1,11 +1,11 @@
 # 乐优
 乐优商城
 
-1. ly-registry：eureka微服务
+1. ly-registry：第一步创建eureka微服务
 
-2. ly-common：公共微服务
+2. ly-gateway：第二步创建网关微服务
 
-3. ly-gateway：网关微服务
+3. ly-common：公共微服务
 
 4. ly-auth：认证微服务
 
