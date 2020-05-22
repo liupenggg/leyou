@@ -28,7 +28,7 @@
 
 leyou网站请求过程：
 
-### ```www.leyou.com```-->nginx-->前端页面-->api.leyou.com-->后端微服务
+#### ```www.leyou.com```-->nginx-->前端页面-->api.leyou.com-->网关-->后端微服务
 
 1. 管理后台开发
 2. 网站前台开发
